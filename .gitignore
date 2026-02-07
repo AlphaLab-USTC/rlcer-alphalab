@@ -1,0 +1,14 @@
+GRU-Mem-Paper/
+GRUMEM-paper/
+AGENTS.md
+.DS_Store
+RLCER-Seed/
+skills/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
